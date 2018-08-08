@@ -10,7 +10,7 @@ import javax.servlet.http.HttpServletResponse;
 import command.Carrier_p;
 import command.ListCommand_p;
 
-@WebServlet("/admin.do")
+@WebServlet("/admin")
 public class AdminController_p extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        

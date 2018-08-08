@@ -9,8 +9,7 @@ document.getElementById('moveAdmin')
 .addEventListener('click', function (x){
 	location.href =
         "/GMS2-PRACTICE/"
-        +"admin.do"
-        +"?action=list"
-        +"&page=adminMain_p";
+        +"admin"
+    ;
 	});
 </script>
